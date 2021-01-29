@@ -1,0 +1,7 @@
+C:\Users\mau_l\source\repos\Proyecto final nath\Proyecto final nath\bin\Debug\Proyecto final nath.exe.config
+C:\Users\mau_l\source\repos\Proyecto final nath\Proyecto final nath\bin\Debug\Proyecto final nath.exe
+C:\Users\mau_l\source\repos\Proyecto final nath\Proyecto final nath\bin\Debug\Proyecto final nath.pdb
+C:\Users\mau_l\source\repos\Proyecto final nath\Proyecto final nath\obj\Debug\Proyecto final nath.csprojAssemblyReference.cache
+C:\Users\mau_l\source\repos\Proyecto final nath\Proyecto final nath\obj\Debug\Proyecto final nath.csproj.CoreCompileInputs.cache
+C:\Users\mau_l\source\repos\Proyecto final nath\Proyecto final nath\obj\Debug\Proyecto final nath.exe
+C:\Users\mau_l\source\repos\Proyecto final nath\Proyecto final nath\obj\Debug\Proyecto final nath.pdb
